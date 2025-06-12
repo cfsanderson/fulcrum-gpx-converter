@@ -3,7 +3,7 @@
 .env
 *.pem
 *.key
-./garmin-GPX-files/*
+garmin-GPX-files/*.gpx
 data.csv
 
 # Python
